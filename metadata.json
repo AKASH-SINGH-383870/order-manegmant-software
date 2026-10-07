@@ -1,0 +1,8 @@
+{
+  "name": "order manegmant software final changes ",
+  "description": "Enterprise Lubricant Order Management, Production, Multi-Stage Dispatch \u0026 Payment Tracking Software",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
